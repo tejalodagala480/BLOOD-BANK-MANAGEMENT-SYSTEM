@@ -1,6 +1,79 @@
 # BLOOD-BANK-MANAGEMENT-SYSTEM
-
 This project aims at maintaining all the information  pertaining to blood donors, different blood groups available in each blood bank and help them  manage in a better way.
+
+# A Community Service Project Report on 
+BLOOD BANK MANAGEMENT SYSTEM 
+
+
+Submitted by
+L.TEJA-20Q71A4417
+MD.HASEENA-20Q71A4418
+M.SARASWATI-20Q71A4419
+
+Under the esteemed Guidance of 
+Mrs. K Hymavathi, M.Tech 
+Assistant Professor
+
+![image](https://github.com/tejalodagala480/BLOOD-BANK-MANAGEMENT-SYSTEM/assets/106898126/95df66c9-ef30-4ecc-a2f6-1cb3044159b8)
+
+Department of CSE – (DATA SCIENCE)
+AVANTHI INSTITUTE OF ENGINEERING & TECHNOLOGY
+ (Affiliated to JNTU, Kakinada, AP)
+
+
+
+AVANTHI INSTITUTE OF ENGINEERING & TECHNOLOGY
+Department of CSE (DATA SCIENCE)
+
+
+
+
+
+
+
+
+
+CERTIFICATE
+
+          This is to certify that the community service project report titled  BLOOD BANK MANAGEMENT SYSTEM is being submitted by L.TEJA bearing 20Q71A4417, MD.HASEENA BEGUM bearing 20Q71A4418, M.SARASWATI bearing 20Q71A4419 in B. Tech, CSE (Data Science) is a record bonafide work carried out by them. The results embodied in this community service project report have not been submitted to any other University.
+
+
+
+Internal Guide                                                                               Head of the Department 
+Mrs. k Hymavathi, M.Tech.                                                    Mrs. PSrilakshmi,
+Assistant Professor                                                                         M. Tech , ( Ph.d )
+CSE (DS,AI&ML) Dept.                                                                CSE (DS,AI&ML) Dept.
+
+
+
+External Examiner:
+
+
+
+                                                               # Acknowledgement
+
+          We would like to take this opportunity to express our gratitude and a big word of thanks to Mrs. K Hymavathi , Assistant Professor, Department of CSE (DS,AI&ML), AIET, Tagarapuvalasa, to whom we are highly indebted for providing us with her invaluable guidance, cooperation, constant encouragement, technical support and inspiration all through our association with her. She helped a lot in developing this project report from concept to commissioning. 
+
+          We are profoundly grateful to Mrs. P Srilakshmi, Head of the Dept. CSE(DS,AI&ML), Avanthi Institute of Engineering & Technology, Tagarapuvalasa, for presenting us this opportunity and for extending constant support and valuable suggestions throughout the community service project work. 
+
+          We are also grateful to all the faculty members of Dept. of CSE(DS) & CSE(AI&ML), AIET, Tagarapuvalasa, for their cooperation during our study period. We wish to express our affectionate gratitude to all our friends for their warm friendly cooperation and encouragement.  
+
+
+Lodagala Teja     -  (20Q71A4417)
+MD. Haseena Begum -  (20Q71A4418)
+M. Saraswati      -  (20Q71A4419)
+
+
+
+
+
+
+
+
+
+
+
+
 # How To Run The Blood Bank Management System Project in Django with Source Code?
 Step 1: Extract/unzip the file
 
